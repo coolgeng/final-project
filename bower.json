@@ -1,0 +1,31 @@
+{
+  "name": "final-project",
+  "version": "0.0.1",
+  "description": "MSCS_3205 project.",
+  "main": [
+    "dist/md-data-table.js",
+    "dist/md-data-table.css"
+  ],
+  "authors": [
+    "Daniel Nagy"
+  ],
+  "homepage": "https://sofia.instructure.com/courses/3310",
+  "license": "MIT",
+  "keywords": [
+    "material",
+    "table",
+    "md-data-table"
+  ],
+  "ignore": [
+    "**/.*",
+    "app",
+    "bower_components",
+    "node_modules",
+    "src",
+    "Gruntfile.js"
+  ],
+  "dependencies": {
+    "angular": "^1.4.0",
+    "angular-material": "^1.0.0"
+  }
+}

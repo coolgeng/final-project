@@ -1,0 +1,97 @@
+{
+  "count": 9,
+  "data": [
+    {
+      "name": "Sean",
+      "type": "Teacher",
+      "wechatId": { "value": 12345678909.0 },
+      "assignment_score": { "value": 6.0 },
+      "carbs": { "value": 24.0 },
+      "final_score": { "value": 4.0 },
+      "sodium": { "value": 87.0 },
+      "calcium": { "value": 14.0 },
+      "percentage": { "value": 1.0 },
+      "comment": "Not as good as the real thing."
+    }, {
+      "name": "Curry",
+      "type": "Student",
+      "wechatId": { "value": 12345678908.0 },
+      "assignment_score": { "value": 9.0 },
+      "carbs": { "value": 37.0 },
+      "final_score": { "value": 4.3 },
+      "sodium": { "value": 129.0 },
+      "calcium": { "value": 8.0 },
+      "percentage": { "value": 1.0 }
+    }, {
+      "name": "Barnes",
+      "type": "Student",
+      "wechatId": { "value":  12345678907.0 },
+      "assignment_score": { "value": 16.0 },
+      "carbs": { "value": 24.0 },
+      "final_score": { "value":  6.0 },
+      "sodium": { "value": 337.0 },
+      "calcium": { "value":  6.0 },
+      "percentage": { "value": 7.0 }
+    }, {
+      "name": "Bogut",
+      "type": "Student",
+      "wechatId": { "value":  12345678906.0 },
+      "assignment_score": { "value": 3.7 },
+      "carbs": { "value": 67.0 },
+      "final_score": { "value": 4.3 },
+      "sodium": { "value": 413.0 },
+      "calcium": { "value": 3.0 },
+      "percentage": { "value": 8.0 }
+    }, {
+      "name": "Green",
+      "type": "Student",
+      "wechatId": { "value":  12345678905.0 },
+      "assignment_score": { "value": 0.0 },
+      "carbs": { "value": 94.0 },
+      "final_score": { "value": 0.0 },
+      "sodium": { "value": 50.0 },
+      "calcium": { "value": 0.0 },
+      "percentage": { "value": 0.0 }
+    }, {
+      "name": "Thompson",
+      "type": "Student",
+      "wechatId": { "value": 12345678904.0 },
+      "assignment_score": { "value": 0.2 },
+      "carbs": { "value": 98.0 },
+      "final_score": { "value": 0.0 },
+      "sodium": { "value": 38.0 },
+      "calcium": { "value": 0.0 },
+      "percentage": { "value": 2.0 }
+    }, {
+      "name": "Livingston",
+      "type": "Student",
+      "wechatId": { "value": 12345678903.0 },
+      "assignment_score": { "value": 3.2 },
+      "carbs": { "value": 87.0 },
+      "final_score": { "value": 6.5 },
+      "sodium": { "value": 562.0 },
+      "calcium": { "value": 0.0 },
+      "percentage": { "value": 45.0 }
+    }, {
+      "name": "Ezeli",
+      "type": "Student",
+      "wechatId": { "value": 12345678902.0 },
+      "assignment_score": { "value": 25.0 },
+      "carbs": { "value": 51.0 },
+      "final_score": { "value": 4.9 },
+      "sodium": { "value": 326.0 },
+      "calcium": { "value": 2.0 },
+      "percentage": { "value": 22.0 }
+    }, {
+      "name": "Iguodala",
+      "type": "Student",
+      "wechatId": { "value": 12345678901.0 },
+      "assignment_score": { "value": 26.0 },
+      "carbs": { "value": 65.0 },
+      "final_score": { "value": 7.0 },
+      "sodium": { "value": 54.0 },
+      "calcium": { "value": 12.0 },
+      "percentage": { "value": 6.0 }
+    }
+  ]
+}
